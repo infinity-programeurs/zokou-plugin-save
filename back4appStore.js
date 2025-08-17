@@ -6,7 +6,7 @@
 const fetch = require("node-fetch");
 
 const APP_ID = "9obllMlhKgaYHjAJxcLzHLAq11q1WtOFWvuP8EFD";       // Mets ton App ID Back4App
-const JS_KEY = "TA_CLE_JS_BACK4APP";        // Mets ta clé JavaScript
+const JS_KEY = "2BQe9md09yvZSzx3eLoIHo5qHYlu7QEfKCTZ4aMz";        // Mets ta clé JavaScript
 const CLASS_NAME = "registration";              // Nom de la table (classe) dans Back4App
 
 module.exports = {
